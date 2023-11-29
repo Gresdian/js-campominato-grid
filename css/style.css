@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header{
+    height: 100px;
+}
+
+.logo{
+    width: 100px;
+}
+
+h1{
+    font-weight: 700;
+}
+
+.grey{
+    background-color: rgb(185, 185, 185);
+    font-weight: 600;
+}
+
+main{
+    background-color: aquamarine;
+    height: 1000px;
+}
+
