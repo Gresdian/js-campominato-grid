@@ -23,6 +23,26 @@ h1{
 
 main{
     background-color: aquamarine;
-    height: 1000px;
 }
+
+#grid{
+    width: 1000px;
+    flex-wrap: wrap;
+}
+
+.square{
+    width: 100px;
+    height: 100px;
+    background-color: aquamarine;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.clicked{
+    background-color: #fff;
+}
+
 
